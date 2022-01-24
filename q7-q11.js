@@ -20,7 +20,7 @@ const getFunction = () => {
 
 console.log(getFunction()(2))
 
-// Explain why the function that returns from getFunction still has access to "y" if 5 is not a global variable.
+// Explain why the function that returns from getFunction still has access to "y" if "y" is not a global variable.
 
 
 
