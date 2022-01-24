@@ -1,0 +1,15 @@
+1. What is a javascript function? 
+
+
+2. What is a callback?
+
+
+3. can callbacks only be used in asynchronous code?
+
+
+4. Why are javascript functions first-class citizens?
+
+
+5. Explain javascript Closures?
+
+6. explain try/catch blocks
